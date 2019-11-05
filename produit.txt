@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Page Produit modif depuis master
+=======
+Page Produit modif de la branche-produit
+>>>>>>> page-produit
